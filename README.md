@@ -21,7 +21,7 @@ Whether you can speak on it or just have an interesting idea, create a new issue
 2. Set the title to **"[COOL_TALK_TITLE_GOES_HERE]"**, followed by your name if you are volunteering to speak on the topic.
 3. Make sure to attach it to the project **["Meetups Topics and Agenda"](https://github.com/doxmx/meetups-topics/projects/1)** 
 
-[How to add it to a project](resources/gh-add-project.png)
+![How to add it to a project](resources/gh-add-project.png)
 
 ##### How to Vote for a talk or topic:
 1. Find a topic that you are interested in on the [Topic Kanban](https://github.com/doxmx/meetups-topics/projects/1) page.
