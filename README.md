@@ -32,3 +32,7 @@ Whether you can speak on it or just have an interesting idea, create a new issue
 1. Find a topic that you are interested in on the [Topic Kanban](https://github.com/doxmx/meetups-topics/projects/1) page.
 2. Leave a comment volunteering to speak on the subject and explaining why you want to speak on it.
 3. An admin will add you to the topic title.
+
+## Meetup info
+
+* Meetup info regarding surveys and schedules is found in [MEETUP.md](./MEETUP.md)
